@@ -13,7 +13,7 @@ A web application for exploring and analyzing NYC taxi trip data patterns using 
 
 ## Video Walkthrough
 
-📹 **5-Minute Demo Video**: [Watch the application walkthrough](https://jmp.sh/TIYl8x6m)
+**5-Minute Demo Video**: [Watch the application walkthrough](https://jmp.sh/TIYl8x6m)
 
 This video demonstrates the system architecture, custom K-means clustering algorithm, interactive features, and key insights from the NYC taxi data analysis.
 
