@@ -70,3 +70,9 @@ __pycache__/
 *.tmp
 *.temp
 submission/
+
+# Large data files
+train.csv
+train.zip
+*.mov
+*.mp4

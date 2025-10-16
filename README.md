@@ -17,6 +17,12 @@ A web application for exploring and analyzing NYC taxi trip data patterns using 
 
 This video demonstrates the system architecture, custom K-means clustering algorithm, interactive features, and key insights from the NYC taxi data analysis.
 
+## Download Files
+
+📄 **Technical Report**: [TECHNICAL_REPORT.pdf](TECHNICAL_REPORT.pdf) - Complete technical documentation and analysis
+
+📦 **Submission Package**: [nyc_taxi_explorer_submission.zip](nyc_taxi_explorer_submission.zip) - Complete codebase ready for submission
+
 ## Dataset
 
 This application uses the NYC Taxi Trip Dataset containing:
