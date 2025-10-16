@@ -244,14 +244,14 @@ A comprehensive 5-minute video demonstration is available showcasing:
 **Video Link**: [Watch the application walkthrough](https://jmp.sh/TIYl8x6m)
 
 ### Assignment Requirements Met
-✅ **Data Processing**: Complete cleaning pipeline with outlier detection  
-✅ **Database Design**: Normalized schema with proper indexing  
-✅ **Backend API**: RESTful endpoints with custom algorithms  
-✅ **Frontend Dashboard**: Interactive visualizations and filtering  
-✅ **Custom Algorithm**: Manual K-means implementation  
-✅ **Documentation**: Technical report and comprehensive README  
-✅ **Video Walkthrough**: 5-minute system demonstration  
-✅ **Database Dump**: Complete schema and sample data  
-✅ **Code Quality**: Clean, modular, well-documented codebase
+- **Data Processing**: Complete cleaning pipeline with outlier detection  
+- **Database Design**: Normalized schema with proper indexing  
+- **Backend API**: RESTful endpoints with custom algorithms  
+- **Frontend Dashboard**: Interactive visualizations and filtering  
+- **Custom Algorithm**: Manual K-means implementation  
+- **Documentation**: Technical report and comprehensive README  
+- **Video Walkthrough**: 5-minute system demonstration  
+- **Database Dump**: Complete schema and sample data  
+- **Code Quality**: Clean, modular, well-documented codebase
 
 This project demonstrates the complete data science pipeline from raw data processing to interactive visualization, showcasing both technical implementation skills and analytical thinking in the context of urban mobility challenges.

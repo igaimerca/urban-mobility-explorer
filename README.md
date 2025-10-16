@@ -19,9 +19,9 @@ This video demonstrates the system architecture, custom K-means clustering algor
 
 ## Download Files
 
-📄 **Technical Report**: [TECHNICAL_REPORT.pdf](TECHNICAL_REPORT.pdf) - Complete technical documentation and analysis
+**Technical Report**: [TECHNICAL_REPORT.pdf](TECHNICAL_REPORT.pdf) - Complete technical documentation and analysis
 
-📦 **Submission Package**: [nyc_taxi_explorer_submission.zip](nyc_taxi_explorer_submission.zip) - Complete codebase ready for submission
+**Submission Package**: [nyc_taxi_explorer_submission.zip](nyc_taxi_explorer_submission.zip) - Complete codebase ready for submission
 
 ## Dataset
 
